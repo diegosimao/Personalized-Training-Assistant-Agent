@@ -44,35 +44,66 @@ This project transforms that data into your ultimate competitive advantage. We'v
   └── training_agent.py               # Training analysis and planning logic
 ```
 
-## How to Use
+### Who is This For?
 
-1. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. **Run the main script:**
-   ```bash
-   python src/main.py
-   ```
-3. **Explore the results:**
-   - Generated reports and plans will be available in the output files.
-   - Use the notebook for additional exploratory analysis.
+*   **For the Ambitious Runner:** Whether you're tackling your first half marathon or aiming to shatter your personal record, our AI agent analyzes your unique running style, fitness level, and weekly availability to build a plan that is 100% yours. No more generic advice—just a data-driven strategy for success.
 
-## Technologies Used
-- Python 3
-- Pandas, Numpy
-- Jupyter Notebook
-- Libraries for handling TCX/CSV files
+*   **For the Data-Driven Athlete & Developer:** This is more than just a training app; it's a powerful sports analytics tool. Dive into a project that showcases the real-world application of AI in sports. Explore your performance trends, visualize your progress, and see what a data-first approach can do. Built with Python, Pandas, and Streamlit, it's a perfect portfolio piece.
 
-## Possible Extensions
-- Support for other sports and platforms
-- Interactive data visualizations
-- Generation of plans for different distances
+## Quick Start Guide 🚀
 
+1. **Set Up Your Environment:**
+    ```bash
+    # Clone this repository
+    git clone https://github.com/diegosimao/Personalized-Training-Assistant-Agent.git
+    
+    # Install dependencies
+    pip install -r requirements.txt
+    ```
 
-## Author
-- Diego Simão
+2. **Launch Your AI Coach:**
+    ```bash
+    # Start the Streamlit app
+    python -m streamlit run src/main.py
+    ```
+
+3. **Start Your Journey:**
+    - Upload your Garmin data
+    - Define your goals
+    - Get your personalized plan instantly
+
+## Built With Powerful Tech 💪
+
+- **Python 3** - The core of our AI engine
+- **Pandas & NumPy** - For lightning-fast data analysis
+- **Streamlit** - Creating a beautiful, responsive UI
+- **Jupyter Notebook** - For deep dive analytics
+- **Custom AI Models** - Making sense of your running patterns
+
+## Roadmap 🗺️
+
+- Integration with more sports platforms
+- Real-time training adjustments
+- Support for multiple race distances
+- Advanced performance analytics dashboard
+- Mobile app development
+
+## Contributing 🤝
+
+Your contributions are welcome! Whether you're fixing bugs, adding new features, or improving documentation, check out our contributing guidelines to get started.
+
+## Support ⭐
+
+If you find this project useful, give it a star! It helps others discover this tool and motivates further development.
+
+## License 📄
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Created By
+
+**Diego Simão** - Transforming running data into winning strategies.
 
 ---
 
-This project demonstrates skills in sports data analysis, automated training planning, and integration of different data formats, making it ideal for a Data Science and Data Engineering portfolio.
+*Stop following generic plans. Start training smarter with data-driven insights.*
