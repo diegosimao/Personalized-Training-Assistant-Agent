@@ -1,12 +1,12 @@
 
 
-# Garmin Training Analysis and Planning
-
-## Example: Streamlit App Running
+# Stop Using Generic Training Plans. Your Garmin Data Holds the Key to Your Next Personal Best.
 
 ![Streamlit App Running](images/example.png)
 
-This project is a complete solution for analyzing sports training data, especially running, using data exported from Garmin Connect. It allows you to import, explore, analyze, and plan running workouts, with a focus on half marathon training, in an automated and personalized way.
+Are you a runner tired of one-size-fits-all training schedules? Do you have years of valuable performance data locked away in your Garmin Connect account?
+
+This project transforms that data into your ultimate competitive advantage. We've built a **Personalized Training Assistant** that acts as your personal AI running coach, crafting the perfect half-marathon plan tailored specifically to *you*.
 
 ## Features
 
